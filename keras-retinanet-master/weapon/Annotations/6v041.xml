@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>6v041.jpg</filename>
+    <path>weapon-PascalVOC-export/Annotations/6v041.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>501</width>
+        <height>501</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>6V</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>101.46388009361235</xmin>
+        <ymin>5.126789647577093</ymin>
+        <xmax>403.15993254405294</xmax>
+        <ymax>495.7467648678414</ymax>
+    </bndbox>
+</object>
+</annotation>

@@ -1,0 +1,37 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>9V_50.jpg</filename>
+    <path>weapon-PascalVOC-export/Annotations/9V_50.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>300</width>
+        <height>300</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>9V</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>38.420636013215855</xmin>
+        <ymin>51.378372797356825</ymin>
+        <xmax>130.2020236784141</xmax>
+        <ymax>218.9582186123348</ymax>
+    </bndbox>
+</object><object>
+    <name>9V</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>166.1188738986784</xmin>
+        <ymin>47.41361508810572</ymin>
+        <xmax>257.7866877753304</xmax>
+        <ymax>217.18922081497797</ymax>
+    </bndbox>
+</object>
+</annotation>
